@@ -34,7 +34,10 @@
 
 ### 🌿 Small projects (_TBA_)
 
-### 🏫 Education (_TBA_)
+### 🏫 Education
+
+- [Java course tasks (1 semester)](https://github.com/akim-berezhnoy/prog-intro)
+- [Java course tasks (2 semester)](https://github.com/akim-berezhnoy/paradigms)
 
 Some of my C++ repos are temporary private due to university's cheating control policy. This fact has a huge impact on language usage statistics. They will become public very soon and links are going to be added.
 
