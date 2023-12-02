@@ -31,6 +31,7 @@
 
 - [**Huffman’s algorithm** encoding utility](https://github.com/akim-berezhnoy/huffman-tool)
 - [**Big-Integer** implementation](https://github.com/akim-berezhnoy/big-integer)
+- [**Vector** implementation with small-object and copy-on-write optimizations](https://github.com/akim-berezhnoy/socow-vector)
 - **Bimap** data structure implementation
 
 ### 🏫 Education
