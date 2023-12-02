@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img height='190px' align='center' src='https://github-readme-stats.vercel.app/api?username=akim-berezhnoy&hide_title=true&rank_icon=github&show_icons=true&theme=transparent' /> <img height='190px' align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=akim-berezhnoy&theme=transparent' /> <img height='190px' align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=akim-berezhnoy&card_width=200&theme=transparent&hide_current_streak=true&hide_longest_streak=true' />
+<img height='190px' align='center' src='https://github-readme-stats.vercel.app/api?username=akim-berezhnoy&hide_rank=true&hide_title=true&rank_icon=github&show_icons=true&theme=transparent' /> <img height='190px' align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=akim-berezhnoy&theme=transparent' /> <img height='190px' align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=akim-berezhnoy&card_width=200&theme=transparent&hide_current_streak=true&hide_longest_streak=true' />
 
 </div>
 
