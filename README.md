@@ -29,7 +29,7 @@
 
 ### ✅ Done projects
 
-- **Huffman’s** algorithm encoding utility
+- [**Huffman’s** algorithm encoding utility](https://github.com/akim-berezhnoy/huffman-tool)
 - **bimap** data structure implementation
 
 Some of my C++ repos are temporary private due to university's cheating control policy. This fact has a huge impact on language usage statistics. They will become public very soon and links are going to be added.
