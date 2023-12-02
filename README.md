@@ -34,6 +34,8 @@
 
 ### 🌿 Small projects (_TBA_)
 
+### 🏫 Education (_TBA_)
+
 Some of my C++ repos are temporary private due to university's cheating control policy. This fact has a huge impact on language usage statistics. They will become public very soon and links are going to be added.
 
 <!--
