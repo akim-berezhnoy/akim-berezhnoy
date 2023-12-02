@@ -35,7 +35,7 @@
 ### 🏫 Education
 
 - [Java course tasks (1 semester)](https://github.com/akim-berezhnoy/prog-intro)
-- [Java course tasks (2 semester)](https://github.com/akim-berezhnoy/paradigms)
+- [Java course tasks (2 semester)](https://github.com/akim-berezhnoy/paradigms) (includes some tasks written on `JavaScript`, `Clojure`, `Prolog`)
 
 ### 🌿 Small projects (_TBA_)
 
