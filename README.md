@@ -15,7 +15,7 @@
 
 </div>
 
-### 📊 Profile Stats:
+### 📊 Profile Stats
 
 <div align="center">
 
@@ -23,11 +23,11 @@
 
 </div>
 
-### 🔨 Projects in progress:
+### 🔨 Projects in progress
 
 - **std::variant** implementation
 
-### ✅ Done projects:
+### ✅ Done projects
 
 - **Huffman’s** algorithm encoding utility
 - **bimap** data structure implementation
