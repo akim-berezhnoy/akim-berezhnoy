@@ -30,6 +30,7 @@
 ### ✅ Finished projects
 
 - [**Huffman’s** algorithm encoding utility](https://github.com/akim-berezhnoy/huffman-tool)
+- [**Big-Integer** implementation](https://github.com/akim-berezhnoy/big-integer)
 - **bimap** data structure implementation
 
 ### 🏫 Education
