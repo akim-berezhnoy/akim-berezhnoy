@@ -27,7 +27,7 @@
 
 - **std::variant** implementation
 
-### ✅ Done projects
+### ✅ Finished projects
 
 - [**Huffman’s** algorithm encoding utility](https://github.com/akim-berezhnoy/huffman-tool)
 - **bimap** data structure implementation
