@@ -25,13 +25,13 @@
 
 ### 🔨 Projects in progress
 
-- **std::variant** implementation
+- **std::variant** implementation (3 semester)
 
 ### ✅ Finished projects
 
-- [**Huffman’s algorithm** encoding utility](https://github.com/akim-berezhnoy/huffman-tool)
-- [**Big-Integer** implementation](https://github.com/akim-berezhnoy/big-integer)
-- **Bimap** data structure implementation
+- [**Huffman’s algorithm** encoding utility](https://github.com/akim-berezhnoy/huffman-tool) (2 semester)
+- [**Big-Integer** implementation](https://github.com/akim-berezhnoy/big-integer) (2 semester)
+- **Bimap** data structure implementation (3 semester)
 
 ### 🏫 Education
 
@@ -40,11 +40,11 @@
 
 ### 🌿 Small public projects
 
-- [**Vector** implementation with small-object and copy-on-write optimizations](https://github.com/akim-berezhnoy/socow-vector)
-- **Shared pointer** implementation
-- **Intrusive list** implementation
-- **Optional** implementation
-- **Function** implementation
+- [**Vector** implementation with small-object and copy-on-write optimizations](https://github.com/akim-berezhnoy/socow-vector) (2 semester)
+- **Shared pointer** implementation (3 semester)
+- **Intrusive list** implementation (3 semester)
+- **Optional** implementation (3 semester)
+- **Function** implementation (3 semester)
 
 Some of my C++ repos are temporary private due to university's cheating control policy. This fact has a huge impact on language usage statistics. They will become public very soon and links are going to be added.
 
