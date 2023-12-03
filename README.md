@@ -31,7 +31,6 @@
 
 - [**Huffman’s algorithm** encoding utility](https://github.com/akim-berezhnoy/huffman-tool)
 - [**Big-Integer** implementation](https://github.com/akim-berezhnoy/big-integer)
-- [**Vector** implementation with small-object and copy-on-write optimizations](https://github.com/akim-berezhnoy/socow-vector)
 - **Bimap** data structure implementation
 
 ### 🏫 Education
@@ -39,7 +38,13 @@
 - [Java course tasks (1 semester)](https://github.com/akim-berezhnoy/prog-intro)
 - [Java course tasks (2 semester)](https://github.com/akim-berezhnoy/paradigms) (includes some tasks written on `JavaScript`, `Clojure`, `Prolog`)
 
-### 🌿 Small public projects (_TBA_)
+### 🌿 Small public projects
+
+- [**Vector** implementation with small-object and copy-on-write optimizations](https://github.com/akim-berezhnoy/socow-vector)
+- **Shared pointer** implementation
+- **Intrusive list** implementation
+- **Optional** implementation
+- **Function** implementation
 
 Some of my C++ repos are temporary private due to university's cheating control policy. This fact has a huge impact on language usage statistics. They will become public very soon and links are going to be added.
 
