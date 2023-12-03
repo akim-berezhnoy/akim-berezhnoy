@@ -11,7 +11,7 @@
   
 | Primary  | System | Version control | Web | Secondary |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=cpp,cmake" />  | <img src="https://skillicons.dev/icons?i=linux,docker,bash,regex" /> | <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> | <img src="https://skillicons.dev/icons?i=typescript,vite,webpack,react,tailwind" />  | <img src="https://skillicons.dev/icons?i=java,python" />  |
+| <img src="https://skillicons.dev/icons?i=cpp,java" />  | <img src="https://skillicons.dev/icons?i=linux,docker,bash,regex" /> | <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> | <img src="https://skillicons.dev/icons?i=typescript,vite,webpack,react,tailwind" />  | <div align="center"><img justity-self="middle" src="https://skillicons.dev/icons?i=python" /></div>  |
 
 </div>
 
